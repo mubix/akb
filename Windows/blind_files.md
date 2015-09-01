@@ -1,4 +1,4 @@
-# Windows Blind Files
+## Blind Files
 
 In some cases during exploitation you as an attacker gain the ability to read arbitrary files. As an attacker you need go-to files that cover as many different OS versions as possible in order to either confirm exploitation or gather intelligence on the exploited system. For this we use a "blind file".
 
