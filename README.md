@@ -1,3 +1,0 @@
-# Attack Knowlege Base
-
-## Just testing things out...
