@@ -19,4 +19,6 @@ and submit an issue, again, with as much information as you can.
 
 This is the most appreciated method of contribution since it's the least amount of work on our side to get things merged it. And I'll leave it people who are better at explaining it than I to walk you through your first pull request:
 
+Adding this video for now, will do my own when I have the time
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFYyTZwMyAg" frameborder="0" allowfullscreen></iframe>
