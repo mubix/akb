@@ -1,6 +1,7 @@
 # Misculaneous Bash commands:
 
-## If you have a key or password that you want to check:
+## Check Hosts
+If you have a key or password that you want to check:
 (Warning: noisy)
 
 ```
