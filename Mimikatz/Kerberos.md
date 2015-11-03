@@ -1,5 +1,3 @@
-# Kerberos
-
 ## Kerberos Modules
 ```
   .#####.   mimikatz 2.0 alpha (x64) release "Kiwi en C" (Oct  9 2015 00:33:13)
