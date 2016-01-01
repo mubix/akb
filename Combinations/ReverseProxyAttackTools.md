@@ -90,11 +90,12 @@ Same as with MSF, we set up a listener like normal initially
 (Empire) > listeners
 (Empire: listeners) > set Name rev
 (Empire: listeners) > set CertPath ../data/empire.pem
-(Empire: listeners) > set Port 443
-(Empire: listeners) > set Host https://104.236.49.208:2443/
+(Empire: listeners) > set Host https://104.236.49.208
+(Empire: listeners) > set Port 2443
 (Empire: listeners) > run
 ```
-At which point we exit out of empire and perform a small edit to the empire.db Sqlite3 database:
+If you type `info` you will see that the listener appends the 2443 port :/ so we will need to
+drop out of Empire and perform a small edit to the empire.db Sqlite3 database:
 
 ```
 root@oneport:/opt/empire/data# sqlite3 empire.db
