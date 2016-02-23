@@ -25,10 +25,10 @@ Source: http://www.dayid.org/os/notes/tm.html
 | toggle visual bell | ------ | `^a ^g` |
 | create another shell | `^b c` | `^a c` |
 | exit current shell | `^d` | `^d` |
-| split pane horizontally | `^b "` | ------ |
-| split pane vertically | `^b %` | ------ |
-| switch to another pane | `^b o` | ------ |
-| kill the current pane | `^b x` OR (logout/`^D`) | ------ |
+| split pane horizontally | `^b "` | `^a |` |
+| split pane vertically | `^b %` | `^a S` |
+| switch to another pane | `^b o` | `^a tab` |
+| kill the current pane | `^b x` OR (logout/`^D`) | `^a X` |
 | close other panes except the current one | `^b !` | ------ |
 | swap location of panes | `^b ^o` | N/A |
 | show time | `^b t` | ------ |
