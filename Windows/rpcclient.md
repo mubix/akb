@@ -1,7 +1,3 @@
-+++
-title = "RPC Client"
-+++
-
 | CLUSAPI Command | Description |
 |---|---|
 | clusapi_open_cluster | bla |
